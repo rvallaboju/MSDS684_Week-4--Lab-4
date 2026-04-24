@@ -43,7 +43,7 @@ To start the Jupyter notebook, run:
 ```bash
 jupyter notebook
 ```
-Then open the `CliffWalking_Lab.ipynb` file in your browser to begin the lab.
+Then open the `notebook` file in your browser to begin the lab.
 
 ## Conclusion
 In this lab, you will learn how to implement and compare SARSA and Q-Learning algorithms. You'll also gain insights into their respective strengths and weaknesses in dealing with the CliffWalking environment.
