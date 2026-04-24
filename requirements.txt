@@ -1,0 +1,6 @@
+numpy>=1.21
+gymnasium>=1.0
+matplotlib>=3.5
+seaborn>=0.12
+scipy>=1.9
+ipython>=8.0
